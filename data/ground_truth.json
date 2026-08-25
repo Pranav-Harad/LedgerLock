@@ -1,0 +1,583 @@
+{
+  "TXN_1001": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0001",
+    "amount": 289544.93,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1002": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0002",
+    "amount": 113976.87,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1003": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0003",
+    "amount": 306131.27,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1004": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0004",
+    "amount": 19143.29,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1005": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0005",
+    "amount": 229883.1,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1006": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0006",
+    "amount": 323628.73,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1007": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0007",
+    "amount": 267223.23,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1008": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0008",
+    "amount": 315672.03,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1009": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0009",
+    "amount": 100814.62,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1010": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0010",
+    "amount": 174067.65,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1011": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0011",
+    "amount": 273658.08,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1012": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0012",
+    "amount": 243621.5,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1013": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0013",
+    "amount": 374085.08,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1014": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0014",
+    "amount": 318534.47,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1015": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0015",
+    "amount": 349015.41,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1016": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0016",
+    "amount": 390585.23,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1017": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0017",
+    "amount": 287879.58,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1018": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0018",
+    "amount": 163095.46,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1019": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0019",
+    "amount": 276063.3,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1020": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0020",
+    "amount": 77714.11,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1021": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0021",
+    "amount": 309653.34,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1022": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0022",
+    "amount": 363245.38,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1023": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0023",
+    "amount": 98887.37,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1024": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0024",
+    "amount": 181056.2,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1025": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0025",
+    "amount": 67135.49,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1026": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0026",
+    "amount": 404531.18,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1027": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0027",
+    "amount": 448809.97,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1028": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0028",
+    "amount": 45454.69,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1029": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0029",
+    "amount": 73014.39,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1030": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0030",
+    "amount": 270402.02,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1031": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0031",
+    "amount": 240455.88,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1032": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0032",
+    "amount": 308361.11,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1033": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0033",
+    "amount": 54640.72,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1034": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0034",
+    "amount": 6444.17,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1035": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0035",
+    "amount": 230918.35,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1036": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0036",
+    "amount": 379542.86,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1037": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0037",
+    "amount": 344317.31,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1038": {
+    "category": "clean_exact",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0038",
+    "amount": 222429.54,
+    "details": "Clean exact match across settlement, ledger, and bank."
+  },
+  "TXN_1039": {
+    "category": "date_offset",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0039",
+    "amount": 220893.25,
+    "details": "Date offset within 1-3 days tolerance (Ledger: 2026-08-13, Settlement: 2026-08-15, Bank: 2026-08-14)."
+  },
+  "TXN_1040": {
+    "category": "date_offset",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0040",
+    "amount": 220722.3,
+    "details": "Date offset within 1-3 days tolerance (Ledger: 2026-08-02, Settlement: 2026-08-03, Bank: 2026-08-05)."
+  },
+  "TXN_1041": {
+    "category": "date_offset",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0041",
+    "amount": 244716.28,
+    "details": "Date offset within 1-3 days tolerance (Ledger: 2026-08-09, Settlement: 2026-08-10, Bank: 2026-08-10)."
+  },
+  "TXN_1042": {
+    "category": "date_offset",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0042",
+    "amount": 237243.68,
+    "details": "Date offset within 1-3 days tolerance (Ledger: 2026-08-03, Settlement: 2026-08-05, Bank: 2026-08-06)."
+  },
+  "TXN_1043": {
+    "category": "date_offset",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0043",
+    "amount": 241447.1,
+    "details": "Date offset within 1-3 days tolerance (Ledger: 2026-08-09, Settlement: 2026-08-10, Bank: 2026-08-12)."
+  },
+  "TXN_1044": {
+    "category": "date_offset",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0044",
+    "amount": 248835.85,
+    "details": "Date offset within 1-3 days tolerance (Ledger: 2026-08-11, Settlement: 2026-08-13, Bank: 2026-08-13)."
+  },
+  "TXN_1045": {
+    "category": "date_offset",
+    "expected_resolution": "matched",
+    "expected_tier": "tier1",
+    "reference_id": "PAY-IN-20260801-0045",
+    "amount": 39041.01,
+    "details": "Date offset within 1-3 days tolerance (Ledger: 2026-08-04, Settlement: 2026-08-05, Bank: 2026-08-06)."
+  },
+  "TXN_1046": {
+    "category": "reference_typo",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0046",
+    "amount": 182705.43,
+    "details": "Reference ID format mismatch: Ledger (PAY-IN-20260801-0046) vs Settlement (PGW-IN-20260801-0046)."
+  },
+  "TXN_1047": {
+    "category": "reference_typo",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0047",
+    "amount": 34209.09,
+    "details": "Reference ID format mismatch: Ledger (PAY-IN-20260801-0047) vs Settlement (PGW-IN-20260801-0047)."
+  },
+  "TXN_1048": {
+    "category": "reference_typo",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0048",
+    "amount": 161534.49,
+    "details": "Reference ID format mismatch: Ledger (PAY-IN-20260801-0048) vs Settlement (PGW-IN-20260801-0048)."
+  },
+  "TXN_1049": {
+    "category": "reference_typo",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0049",
+    "amount": 168681.67,
+    "details": "Reference ID format mismatch: Ledger (PAY-IN-20260801-0049) vs Settlement (PAY-IN-20260801-0094)."
+  },
+  "TXN_1050": {
+    "category": "reference_typo",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0050",
+    "amount": 69266.83,
+    "details": "Reference ID format mismatch: Ledger (PAY-IN-20260801-0050) vs Settlement (PAY-IN-20260801-0005)."
+  },
+  "TXN_1051": {
+    "category": "reference_typo",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0051",
+    "amount": 135719.91,
+    "details": "Reference ID format mismatch: Ledger (PAY-IN-20260801-0051) vs Settlement (pay_in_20260801_0051)."
+  },
+  "TXN_1052": {
+    "category": "reference_typo",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0052",
+    "amount": 201234.81,
+    "details": "Reference ID format mismatch: Ledger (PAY-IN-20260801-0052) vs Settlement (pay_in_20260801_0052)."
+  },
+  "TXN_1053": {
+    "category": "split_settlement",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0053",
+    "amount": 57745.91,
+    "master_id": "TXN_1053_M",
+    "details": "Split settlement part 1 (57745.91) for ledger TXN_1053_M (100895.39)."
+  },
+  "TXN_1054": {
+    "category": "split_settlement",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0053",
+    "amount": 43149.48,
+    "master_id": "TXN_1053_M",
+    "details": "Split settlement part 2 (43149.48) for ledger TXN_1053_M (100895.39)."
+  },
+  "TXN_1055": {
+    "category": "split_settlement",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0054",
+    "amount": 38458.58,
+    "master_id": "TXN_1055_M",
+    "details": "Split settlement part 1 (38458.58) for ledger TXN_1055_M (78531.34)."
+  },
+  "TXN_1056": {
+    "category": "split_settlement",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0054",
+    "amount": 40072.76,
+    "master_id": "TXN_1055_M",
+    "details": "Split settlement part 2 (40072.76) for ledger TXN_1055_M (78531.34)."
+  },
+  "TXN_1057": {
+    "category": "split_settlement",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0055",
+    "amount": 41298.24,
+    "master_id": "TXN_1057_M",
+    "details": "Split settlement part 1 (41298.24) for ledger TXN_1057_M (91781.77)."
+  },
+  "TXN_1058": {
+    "category": "split_settlement",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0055",
+    "amount": 50483.53,
+    "master_id": "TXN_1057_M",
+    "details": "Split settlement part 2 (50483.53) for ledger TXN_1057_M (91781.77)."
+  },
+  "TXN_1059": {
+    "category": "tds_misapplied",
+    "expected_resolution": "matched",
+    "expected_tier": "tier3",
+    "reference_id": "PAY-IN-20260801-0056",
+    "amount": 149283.56,
+    "correct_rate": 0.02,
+    "applied_rate": 0.01,
+    "tds_section": "194C",
+    "details": "TDS rate misapplied: 1.0% applied under 194C, statutory rate is 2.0%."
+  },
+  "TXN_1060": {
+    "category": "tds_misapplied",
+    "expected_resolution": "matched",
+    "expected_tier": "tier3",
+    "reference_id": "PAY-IN-20260801-0057",
+    "amount": 179885.19,
+    "correct_rate": 0.01,
+    "applied_rate": 0.05,
+    "tds_section": "194-O",
+    "details": "TDS rate misapplied: 5.0% applied under 194-O, statutory rate is 1.0%."
+  },
+  "TXN_1061": {
+    "category": "tds_misapplied",
+    "expected_resolution": "matched",
+    "expected_tier": "tier3",
+    "reference_id": "PAY-IN-20260801-0058",
+    "amount": 46609.78,
+    "correct_rate": 0.01,
+    "applied_rate": 0.05,
+    "tds_section": "194-O",
+    "details": "TDS rate misapplied: 5.0% applied under 194-O, statutory rate is 1.0%."
+  },
+  "TXN_1062": {
+    "category": "tds_misapplied",
+    "expected_resolution": "matched",
+    "expected_tier": "tier3",
+    "reference_id": "PAY-IN-20260801-0059",
+    "amount": 158344.06,
+    "correct_rate": 0.05,
+    "applied_rate": 0.01,
+    "tds_section": "194H",
+    "details": "TDS rate misapplied: 1.0% applied under 194H, statutory rate is 5.0%."
+  },
+  "TXN_1063": {
+    "category": "tds_misapplied",
+    "expected_resolution": "matched",
+    "expected_tier": "tier3",
+    "reference_id": "PAY-IN-20260801-0060",
+    "amount": 20344.86,
+    "correct_rate": 0.05,
+    "applied_rate": 0.01,
+    "tds_section": "194H",
+    "details": "TDS rate misapplied: 1.0% applied under 194H, statutory rate is 5.0%."
+  },
+  "TXN_1064": {
+    "category": "duplicate",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0061",
+    "amount": 32816.68,
+    "details": "Original transaction resolved from duplicate settlement stream."
+  },
+  "TXN_1064_DUP": {
+    "category": "duplicate",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0061",
+    "amount": 32816.68,
+    "details": "Duplicate settlement entry de-duplicated and linked to primary record."
+  },
+  "TXN_1065": {
+    "category": "duplicate",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0062",
+    "amount": 24521.11,
+    "details": "Original transaction resolved from duplicate settlement stream."
+  },
+  "TXN_1065_DUP": {
+    "category": "duplicate",
+    "expected_resolution": "matched",
+    "expected_tier": "tier2",
+    "reference_id": "PAY-IN-20260801-0062",
+    "amount": 24521.11,
+    "details": "Duplicate settlement entry de-duplicated and linked to primary record."
+  },
+  "TXN_1066": {
+    "category": "missing_record",
+    "expected_resolution": "exception",
+    "expected_tier": "unresolved",
+    "reference_id": "PAY-IN-20260801-0063",
+    "amount": 300110.64,
+    "details": "Genuinely missing record in bank statement \u2014 true reconciliation exception."
+  },
+  "TXN_1067": {
+    "category": "missing_record",
+    "expected_resolution": "exception",
+    "expected_tier": "unresolved",
+    "reference_id": "PAY-IN-20260801-0064",
+    "amount": 173962.28,
+    "details": "Genuinely missing record in bank statement \u2014 true reconciliation exception."
+  },
+  "TXN_1068": {
+    "category": "missing_record",
+    "expected_resolution": "exception",
+    "expected_tier": "unresolved",
+    "reference_id": "PAY-IN-20260801-0065",
+    "amount": 251474.55,
+    "details": "Genuinely missing record in bank statement \u2014 true reconciliation exception."
+  }
+}
